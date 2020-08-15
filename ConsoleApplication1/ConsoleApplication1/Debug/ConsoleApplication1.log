@@ -1,0 +1,4 @@
+﻿  GenerateField.cpp
+D:\Programming\ConsoleApplication1\ConsoleApplication1\GenerateField.cpp(2,34): warning C4081: требуется "newline"; обнаружен ";"
+D:\Programming\ConsoleApplication1\ConsoleApplication1\GenerateField.cpp(71,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> D:\Programming\ConsoleApplication1\Debug\ConsoleApplication1.exe
